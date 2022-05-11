@@ -104,7 +104,7 @@ class MainClass
                 {
                     if (obj.name == "Circle")
                     {
-                        newForms.Add(new Circle(obj.radius)); // Circle
+                        newForms.Add(new Circle(obj.radius));
                     }
                     else if(obj.name == "Triangle")
                     {
