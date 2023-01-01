@@ -1,4 +1,4 @@
-# CoderBytePrometric
+# coder-byte-prometric
 
 Math Application project to apply to Junior Software Engineer job offer.
 
